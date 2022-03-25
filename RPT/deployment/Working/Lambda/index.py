@@ -1,4 +1,3 @@
-# index.py
 
 # Declaring the Python Function lambda_handler with event paramater
 def lambda_handler(event, context):
